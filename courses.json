@@ -3,66 +3,66 @@
         "id": 1,
         "title": "Monster ReactJS",
         "price": 89,
-        "descripcion": "dsfdsffdfsdfsdgegsdgdsgdgdsgsdgsdgsdgsgsgs",
-        "image": "/images/7.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque convallis aliquam. Etiam ac turpis tellus. Maecenas non turpis non lectus lobortis efficitur. Donec volutpat congue leo at sollicitudin.",
+        "image": "/images/uno.jpg",
         "isPopular": true
     },
     {
         "id": 2,
         "title": "Monster AngularJS",
         "price": 89,
-        "descripcion": "dsfdsffdfsdfsdgegsdgdsgdgdsgsdgsdgsdgsgsgs",
-        "image": "/images/7.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque convallis aliquam. Etiam ac turpis tellus. Maecenas non turpis non lectus lobortis efficitur. Donec volutpat congue leo at sollicitudin.",
+        "image": "/images/dos.jpg",
         "isPopular": true
     },
     {
         "id": 3,
         "title": "Monster MongoDB",
         "price": 89,
-        "descripcion": "dsfdsffdfsdfsdgegsdgdsgdgdsgsdgsdgsdgsgsgs",
-        "image": "/images/7.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque convallis aliquam. Etiam ac turpis tellus. Maecenas non turpis non lectus lobortis efficitur. Donec volutpat congue leo at sollicitudin.",
+        "image": "/images/tres.jpg",
         "isPopular": true
     },
     {
         "id": 4,
         "title": "Monster PHP",
         "price": 89,
-        "descripcion": "dsfdsffdfsdfsdgegsdgdsgdgdsgsdgsdgsdgsgsgs",
-        "image": "/images/7.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque convallis aliquam. Etiam ac turpis tellus. Maecenas non turpis non lectus lobortis efficitur. Donec volutpat congue leo at sollicitudin.",
+        "image": "/images/cuatro.jpg",
         "isPopular": true
     },
     {
         "id": 5,
         "title": "Monster ReactJS",
         "price": 89,
-        "descripcion": "dsfdsffdfsdfsdgegsdgdsgdgdsgsdgsdgsdgsgsgs",
-        "image": "/images/7.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque convallis aliquam. Etiam ac turpis tellus. Maecenas non turpis non lectus lobortis efficitur. Donec volutpat congue leo at sollicitudin.",
+        "image": "/images/seis.jpg",
         "isPopular": true
     },
     {
         "id": 6,
         "title": "Monster ReactJS",
         "price": 89,
-        "descripcion": "dsfdsffdfsdfsdgegsdgdsgdgdsgsdgsdgsdgsgsgs",
-        "image": "/images/7.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque convallis aliquam. Etiam ac turpis tellus. Maecenas non turpis non lectus lobortis efficitur. Donec volutpat congue leo at sollicitudin.",
+        "image": "/images/siete.jpg",
         "isPopular": true
     },
     {
         "id": 7,
         "title": "Advanced JQuery Tips",
         "price": 89,
-        "descripcion": "dsfdsffdfsdfsdgegsdgdsgdgdsgsdgsdgsdgsgsgs",
-        "image": "/images/7.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque convallis aliquam. Etiam ac turpis tellus. Maecenas non turpis non lectus lobortis efficitur. Donec volutpat congue leo at sollicitudin.",
+        "image": "/images/uno.jpg",
         "isPopular": true
     }],
     "social": [{
         "shortname": "twitter",
-        "img": "/images/social/twitter.png",
+        "img": "/images/social/png/twitter.png",
         "url": "http://www.twitter.com/@bryanprsvar"
     },
     {
         "shortname": "facebook",
-        "img": "/images/social/facebook.png",
+        "img": "/images/social/png/facebook.png",
         "url": "http://www.twitter.com/bryanprsvar"
     }]
 }

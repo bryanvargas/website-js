@@ -1,0 +1,23 @@
+{
+  "name": "belerofonte-nodejs",
+  "description": "desarrollo de aplicacion con nodejs",
+  "main": "server.js",
+  "authors": [
+    "Bryan Vargas <bryanprsvar@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bryanvargas/website-js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "normalize-css": "normalize.css#^3.0.3"
+  }
+}
